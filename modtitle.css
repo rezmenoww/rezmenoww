@@ -1,0 +1,36 @@
+.wordmark__421ed {
+	 pointer-events: unset;
+	 padding: 0;
+}
+ .wordmark__421ed > svg {
+	 display: none;
+}
+ .wordmark__421ed::after {
+	 position: absolute;
+	 top: 4px;
+	 padding: 4px 9px 3px;
+	 font-size: 9px;
+	 letter-spacing: 0.4px;
+	 white-space: nowrap;
+	 font-family: var(--font-headline);
+	 content: var(--modtitle-text);
+}
+ :root {
+	 --modtitle-text: "Modified Discord";
+}
+ :root:has(#vencord-css-core) {
+	 --modtitle-text: "Vencord";
+}
+ :root:has(#vcd-css-core) {
+	 --modtitle-text: "Vesktop";
+}
+ :root:has(link[href^="replugged"]) {
+	 --modtitle-text: "Replugged";
+}
+ :root:has(bd-body) {
+	 --modtitle-text: "BetterDiscord";
+}
+ :root:has(script[src^="chrome-extension://cpojbkbhfkkljmlojagocnbmiaagkhkn"]) {
+	 --modtitle-text: "Shelter";
+}
+ 
