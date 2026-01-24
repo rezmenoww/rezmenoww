@@ -1,11 +1,11 @@
-.wordmark__421ed {
+._421edea01cb52e16-wordmark {
 	 pointer-events: unset;
 	 padding: 0;
 }
- .wordmark__421ed > svg {
+ ._421edea01cb52e16-wordmark > svg {
 	 display: none;
 }
- .wordmark__421ed::after {
+ ._421edea01cb52e16-wordmark::after {
 	 position: absolute;
 	 top: 4px;
 	 padding: 4px 9px 3px;
