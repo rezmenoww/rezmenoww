@@ -24,13 +24,13 @@
 }
 
 /* 🔎💥 Broken magnifying glass */
-:root .errorImage_a9e706 {
+:root .a98f3b020416ad54-errorImage {
   background: url("https://nyri4.github.io/Discolored/assets/broken.svg")
   center/cover;
 }
 
 /* 🏰 Castle */
-:root .verification_dede4b .image_dede4b {
+:root .dede4b50b98d4eb6-verification .dede4b50b98d4eb6-image {
   background: url("https://nyri4.github.io/Discolored/assets/castle.svg") 50%/80%
   no-repeat;
 }
@@ -54,7 +54,7 @@
 }
 
 /* 💥 Crash */
-:root .image__61a6b {
+:root ._61a6bac39bf12a0c-image {
   background-image: url("https://nyri4.github.io/Discolored/assets/crash.svg");
 }
 
@@ -85,12 +85,12 @@
 }
 
 /* 🤷‍♂️ GIF not found */
-:root .sadImage__29ebd {
+:root ._29ebda89742214e9-sadImage {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_not_found.svg");
 }
 
 /* 🤷‍ GIF picker end */
-:root .endContainer__2dc39::after {
+:root ._2dc39186a9b98da4-endContainer::after {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_picker_end.svg");
 }
 
@@ -100,18 +100,18 @@
 }
 
 /* 🎁 Gift Inventory */
-:root .emptyStateImage_d4883c,
-:root .emptyWumpus_adb41f {
+:root .d4883c8125f433a3-emptyStateImage,
+:root .adb41f8099151bc8-emptyWumpus {
   background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
 }
 
 /* 🏠 Houses */
-:root .emptyIconGuilds__9d78f {
+:root ._9d78f306fb3bc112-emptyIconGuilds {
   background-image: url("https://nyri4.github.io/Discolored/assets/houses.svg");
 }
 
 /* ✨ Integrations */
-:root .footerImage__98b95 {
+:root ._98b952271168897c-footerImage {
   background-image: url("https://nyri4.github.io/Discolored/assets/integrations.svg");
 }
 
@@ -141,24 +141,24 @@
 }
 
 /* 🙁 No Mutuals */
-:root .emptyIconFriends__9d78f {
+:root ._9d78f306fb3bc112-emptyIconFriends {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_mutuals.svg");
   background-size: 100%;
 }
 
 /* 🔎 🗣️ No results conversation */
-:root .emptyState_ac6cb0 {
+:root .ac6cb02cd15b4b3b-emptyState {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results_conv.svg");
   background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
-:root .noResultsImage_a9e706 {
+:root .a98f3b020416ad54-noResultsImage {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results.svg");
 }
 
 /* 📱 Phones */
-:root .verificationBlock__2ee71 .image_dede4b.phone__0b460 {
+:root .verificationBlock__2ee71 .dede4b50b98d4eb6-image.phone__0b460 {
   background-image: url("https://nyri4.github.io/Discolored/assets/phones.svg");
 }
 
@@ -176,8 +176,8 @@
 
 /* 💩 Poo */
 :root .imageError__3af5f,
-:root .invalidPoop__857bf,
-:root .guildIconExpired_d5f3cd {
+:root ._857bf4d78ba068ea-invalidPoop,
+:root .d5f3cd116f175f35-guildIconExpired {
   content: url("https://nyri4.github.io/Discolored/assets/poop.svg");
 }
 
@@ -188,8 +188,8 @@
 }
 
 /* 🔎 Searching */
-.theme-dark .searchIndexBackground_e1fee6,
-.theme-light .searchIndexBackground_e1fee6 {
+.theme-dark ._8a209ef208b74f7a-searchIndexBackground,
+.theme-light ._8a209ef208b74f7a-searchIndexBackground {
   background-image: url("https://nyri4.github.io/Discolored/assets/searching.svg");
 }
 
@@ -210,8 +210,8 @@
 }
 
 /* 🔴 Streamer Mode */
-:root .streamerModeEnabledImage_aa3ffd,
-:root .emptyIconStreamerMode__9d78f {
+:root .aa3ffd68c8f6a69a-streamerModeEnabledImage,
+:root ._9d78f306fb3bc112-emptyIconStreamerMode {
   background-image: url("https://nyri4.github.io/Discolored/assets/streamer_mode.svg");
 }
 
@@ -257,7 +257,7 @@
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg") !important;
 }
 
-.noResultsContainer__9c6d0 > div:first-child {
+._9c6d0a4e6034f2b9-noResultsContainer > div:first-child {
   width: 200px;
   height: 100px;
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg");
@@ -265,7 +265,7 @@
   background-size: contain;
 }
 
-.noResultsContainer__9c6d0 > div:first-child svg {
+._9c6d0a4e6034f2b9-noResultsContainer > div:first-child svg {
   display: none;
 }
 
@@ -289,41 +289,41 @@
 }
 
 /* 🏓 @everyone */
-.contentWarningPopout_be95d0 g > :nth-child(2) > :first-child path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(2) > :first-child path {
   fill: #0000003d;
 }
-.contentWarningPopout_be95d0 g > :nth-child(3) > :first-child path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(3) > :first-child path {
   fill: #99abd8;
 }
-.contentWarningPopout_be95d0 g > :nth-child(3) > :nth-child(2) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(3) > :nth-child(2) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :first-child path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :first-child path {
   fill: #b3cafb;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(2) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(2) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(3) path,
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(4) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(3) path,
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(4) path {
   fill: #a0b2dc;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(5) path,
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(6) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(5) path,
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(6) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(7) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(7) path {
   fill: #8ba0d2;
 }
-.contentWarningPopout_be95d0 g > :nth-child(4) > :nth-child(8) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(4) > :nth-child(8) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout_be95d0 g > :nth-child(6) > :nth-child(2) path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(6) > :nth-child(2) path {
   fill: #99abd8;
 }
-.contentWarningPopout_be95d0 g > :nth-child(10) > :first-child path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(10) > :first-child path {
   fill: #e0c310;
 }
-.contentWarningPopout_be95d0 g > :nth-child(11) > :first-child path {
+.d2eed6166a4ad770-contentWarningPopout g > :nth-child(11) > :first-child path {
   fill: #fbd907;
 }
