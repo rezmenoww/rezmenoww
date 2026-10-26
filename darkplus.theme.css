@@ -526,19 +526,19 @@
   background-color: transparent;
 }
 
-.background_a27e58 {
+.background_a9178b {
   padding: 0;
   background-color: var(--darkplus-bg2);
   border-radius: 30px;
 }
-.background_a27e58 .profile_d6fbe8 {
+.background_a9178b .profile_d6fbe8 {
   padding: 16px;
 }
-.background_a27e58 .fieldList_a27e58 {
+.background_a9178b .fieldList_a9178b {
   padding: 16px;
   background-color: transparent;
 }
-.background_a27e58 .constrainedRow_a27e58 .button__201d5 {
+.background_a9178b .constrainedRow_a9178b .button__201d5 {
   margin-left: 8px;
 }
 .layer__960e4  {
@@ -997,14 +997,14 @@ button[aria-label="Send a gift"] {
   background-color: var(--darkplus-bg2);
 }
 
-.field_a27e58 > div > div > div {
+.field_a9178b > div > div > div {
   filter: blur(5px);
 }
-.field_a27e58 > div > div > div:hover {
+.field_a9178b > div > div > div:hover {
   filter: blur(0);
 }
 
-.messageGroupWrapper_e8b59c .messageGroupCozy_e8b59c {
+.messageGroupWrapper__432f4 .messageGroupCozy__432f4 {
   background-color: var(--darkplus-bg2);
 }
 
@@ -1382,12 +1382,12 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-bg);
 }
 
-.overflowMenuIcon_a27e58 {
+.overflowMenuIcon_a9178b {
   color: var(--darkplus-sec);
 }
 
 .username__05e81,
-.discriminator_a27e58,
+.discriminator_a9178b,
 .headerTagDiscriminatorNoNickname-dfcvHa {
   color: var(--darkplus-sec);
 }
@@ -2065,19 +2065,19 @@ button[aria-label="Send a gift"] {
   background-color: transparent;
 }
 
-.background__1fed1 {
+.background_a9178b {
   padding: 0;
   background-color: var(--darkplus-bg2);
   border-radius: 30px;
 }
-.background__1fed1 .profile_d6fbe8 {
+.background_a9178b .profile_d6fbe8 {
   padding: 16px;
 }
-.background__1fed1 .fieldList__1fed1 {
+.background_a9178b .fieldList_a9178b {
   padding: 16px;
   background-color: transparent;
 }
-.background__1fed1 .constrainedRow__1fed1 .button__201d5 {
+.background_a9178b .constrainedRow_a9178b .button__201d5 {
   margin-left: 8px;
 }
 .layer__960e4  {
@@ -2536,14 +2536,14 @@ button[aria-label="Send a gift"] {
   background-color: var(--darkplus-bg2);
 }
 
-.field__1fed1 > div > div > div {
+.field_a9178b > div > div > div {
   filter: blur(5px);
 }
-.field__1fed1 > div > div > div:hover {
+.field_a9178b > div > div > div:hover {
   filter: blur(0);
 }
 
-.messageGroupWrapper_e8b59c .messageGroupCozy_e8b59c {
+.messageGroupWrapper__432f4 .messageGroupCozy__432f4 {
   background-color: var(--darkplus-bg2);
 }
 
@@ -2921,12 +2921,12 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-bg);
 }
 
-.overflowMenuIcon__1fed1 {
+.overflowMenuIcon_a9178b {
   color: var(--darkplus-sec);
 }
 
 .username__05e81,
-.discriminator__1fed1,
+.discriminator_a9178b,
 .headerTagDiscriminatorNoNickname-dfcvHa {
   color: var(--darkplus-sec);
 }
